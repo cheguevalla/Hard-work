@@ -1,2 +1,2 @@
 # Hard-work
-Progress in programming
+Progress in programming.
